@@ -58,6 +58,17 @@
 
 ---
 
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/gunbaz/gunbaz/output/github-snake-dark.svg)
+
+</div>
+
+---
+
 ## 🏆 GitHub Trophies
 
 <div align="center">
