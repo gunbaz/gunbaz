@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Furkan Gunbaz</h1>
 <h3 align="center">A person who is passionate about vibe coding.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gunbaz&label=Profile%20views&color=0e75b6&style=flat" alt="gunbaz" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gunbaz" alt="gunbaz" /></a> </p>
 
 - 🔭 I’m currently working on [gunbaz.github.io & ultra-cinema](https://github.com/gunbaz/gunbaz.github.io & https://github.com/gunbaz/ultra-cinema)
 
@@ -27,14 +25,15 @@
 
 ## 📊 GitHub İstatistiklerim
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gunbaz&show_icons=true&theme=dark&locale=en" alt="GitHub Stats" />
-</p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gunbaz" alt="gunbaz" /></a> </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gunbaz&theme=dark" alt="GitHub Streak" />
-</p>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gunbaz&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gunbaz&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gunbaz&theme=github_dark)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gunbaz&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
-</p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gunbaz&theme=dark)
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gunbaz&label=Profile%20views&color=0e75b6&style=flat" alt="gunbaz" /> </p>
+
+
