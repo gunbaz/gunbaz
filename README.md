@@ -13,7 +13,7 @@
 
 ## 🚀 About Me
 
-- 🔭 Currently working on [gunbaz.github.io](https://github.com/gunbaz/gunbaz.github.io) & [ultra-cinema](https://github.com/gunbaz/ultra-cinema)
+- 🔭 Currently working on [gunbaz.github.io](https://github.com/gunbaz/gunbaz.github.io) & [AI-Portfolio-Projects](https://github.com/gunbaz/AI-Portfolio-Projects)
 - 🌱 Learning **Vibe Coding methodologies & LLM Fine-tuning**
 - 👯 Looking to collaborate on **Open-source optimization libraries (like NiaPy & MEALPY)**
 - 💬 Ask me about **AI-assisted development**
