@@ -14,8 +14,7 @@
 ## 🚀 About Me
 
 - 🔭 Currently working on www.benjaminlingocode.com
-- 🌱 Learning **Vibe Coding methodologies & LLM Fine-tuning**
-- 👯 Looking to collaborate on **Open-source optimization libraries (like NiaPy & MEALPY)**
+- 🌱 Learning **Vibe Coding methodologies** 
 - 💬 Ask me about **AI-assisted development**
 - 📫 Reach me: **furkan.gunbazz@gmail.com**
 
