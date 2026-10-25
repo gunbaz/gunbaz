@@ -13,7 +13,7 @@
 
 ## 🚀 About Me
 
-- 🔭 Currently working on www.benjaminlingocode.com
+- 🔭 Currently working on wwww.eozplus.com
 - 🌱 Learning **Vibe Coding methodologies** 
 - 💬 Ask me about **AI-assisted development**
 - 📫 Reach me: **furkan.gunbazz@gmail.com**
