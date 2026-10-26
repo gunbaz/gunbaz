@@ -1,6 +1,6 @@
 <div align="center">
   
-# Hi 👋, I'm Furkan Gunbaz
+# Hi 👋, I'm Furkan Günbaz
 
 ### 💻 A person who is passionate about vibe coding.
 
